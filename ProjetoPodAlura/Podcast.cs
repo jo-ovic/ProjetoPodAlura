@@ -27,6 +27,6 @@
             Console.WriteLine($"Duração do Episódio: {episodio.Duracao}.\n");
         }
 
-        Console.WriteLine($"Total de Episódios: {TotalEpisodios}.");
+        Console.WriteLine($"Total de Episódios do Podcast {Nome}: {TotalEpisodios}.");
     }
 }
